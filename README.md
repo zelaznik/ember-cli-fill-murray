@@ -1,5 +1,7 @@
 # Ember-cli-fill-murray
 
+### DO NOT USE THIS PACKAGE IN PRODUCTION
+
 This README outlines the details of collaborating on this Ember addon.
 
 ## Installation
