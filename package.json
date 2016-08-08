@@ -1,6 +1,6 @@
 {
-  "name": "ember-cli-fill-murray",
-  "version": "0.0.0",
+  "name": "ember-cli-fill-murray-zelaznik",
+  "version": "0.1.0",
   "description": "The default blueprint for ember-cli addons.",
   "directories": {
     "doc": "doc",
@@ -44,7 +44,8 @@
     "ember-addon"
   ],
   "dependencies": {
-    "ember-cli-babel": "^5.1.6"
+    "ember-cli-babel": "^5.1.6",
+    "ember-cli-htmlbars": "^1.0.11"
   },
   "ember-addon": {
     "configPath": "tests/dummy/config"
